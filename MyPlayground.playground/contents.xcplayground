@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Tipos de Dados'/>
+        <page name='Let e Int'/>
+        <page name='Converter Dados'/>
+        <page name='Desafio #1'/>
+        <page name='Incrementos e Operadores'/>
+        <page name='Desafio #2'/>
+        <page name='Condições '/>
+        <page name='Desafio #3'/>
+    </pages>
+</playground>
